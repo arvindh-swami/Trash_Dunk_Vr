@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b7072df28df9d634ba373b9fd15b892d
+timeCreated: 1511827484
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: pencilPete FONT
+  fontNames:
+  - pencilPete FONT
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
